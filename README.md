@@ -3,7 +3,7 @@ Joker Clash is currently my largest project in Unity. Released on Android and iO
 
 This repository showcases largest and most significant classes of the game. The entire game includes a total of 20 classes, with about 5000 lines of code in total. 
 
-A video demo showing the gameplay can be found here: 
+A demo showing the gameplay can be found here: 
 https://www.youtube.com/watch?v=3gzUNX6AXwI
 
 It can be found on google play here: 
